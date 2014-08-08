@@ -6,6 +6,7 @@ BDFS += curried-fixed-x18b.bdf curried-fixed-x18n.bdf curried-fixed-x20b.bdf
 BDFS += curried-fixed-x20n.bdf curried-fixed-x22b.bdf curried-fixed-x22n.bdf
 BDFS += curried-fixed-x24b.bdf curried-fixed-x24n.bdf curried-fixed-x28b.bdf
 BDFS += curried-fixed-x28n.bdf curried-fixed-x32b.bdf curried-fixed-x32n.bdf
+BDFS += curriedcn-18pt-24px-r.bdf
 
 PCFS := ${BDFS:.bdf=.pcf}
 
