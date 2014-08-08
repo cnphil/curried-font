@@ -1,12 +1,30 @@
 
-BDFS := curriedcn-9pt-12px-r.bdf curried-fixed-13b.bdf curried-fixed-13b-i.bdf
-BDFS += curried-fixed-13r.bdf curried-fixed-13r-i.bdf curried-fixed-16b.bdf
-BDFS += curried-fixed-16b-i.bdf curried-fixed-16r.bdf curried-fixed-16r-i.bdf
-BDFS += curried-fixed-x18b.bdf curried-fixed-x18n.bdf curried-fixed-x20b.bdf
-BDFS += curried-fixed-x20n.bdf curried-fixed-x22b.bdf curried-fixed-x22n.bdf
-BDFS += curried-fixed-x24b.bdf curried-fixed-x24n.bdf curried-fixed-x28b.bdf
-BDFS += curried-fixed-x28n.bdf curried-fixed-x32b.bdf curried-fixed-x32n.bdf
-BDFS += curriedcn-18pt-24px-r.bdf
+BDFS := curriedcn-18pt-24px-r.bdf
+BDFS += curriedcn-9pt-12px-r.bdf
+BDFS += curried-fixed-13b.bdf
+BDFS += curried-fixed-13b-i.bdf
+BDFS += curried-fixed-13r.bdf
+BDFS += curried-fixed-13r-i.bdf
+BDFS += curried-fixed-16b.bdf
+BDFS += curried-fixed-16b-i.bdf
+BDFS += curried-fixed-16r.bdf
+BDFS += curried-fixed-16r-i.bdf
+BDFS += curried-fixed-20b.bdf
+BDFS += curried-fixed-20b-i.bdf
+BDFS += curried-fixed-20r.bdf
+BDFS += curried-fixed-20r-i.bdf
+BDFS += curried-fixed-24b.bdf
+BDFS += curried-fixed-24b-i.bdf
+BDFS += curried-fixed-24r.bdf
+BDFS += curried-fixed-24r-i.bdf
+BDFS += curried-fixed-28b.bdf
+BDFS += curried-fixed-28b-i.bdf
+BDFS += curried-fixed-28r.bdf
+BDFS += curried-fixed-28r-i.bdf
+BDFS += curried-fixed-32b.bdf
+BDFS += curried-fixed-32b-i.bdf
+BDFS += curried-fixed-32r.bdf
+BDFS += curried-fixed-32r-i.bdf
 
 PCFS := ${BDFS:.bdf=.pcf}
 
